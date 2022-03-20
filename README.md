@@ -1,6 +1,5 @@
 # Kodluyoruz-Insertion-Sort-Projesi
 <h2> https://app.patika.dev/moduller/veri-yapilari-ve-algoritmalar/www.patika.dev </h2>
-<h2> [lorem ipsum](https://app.patika.dev/moduller/veri-yapilari-ve-algoritmalar/www.patika.dev) </h2>
 <h3> [22,27,16,2,18,6] -> Insertion Sort </h3>
 <h3> 1.1 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.</h3>
 [22,27,16,2,18,6] <br>
